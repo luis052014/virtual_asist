@@ -1,0 +1,3 @@
+[48659:48659:1203/170219.567300:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+[48588:48648:1203/170222.236888:WARNING:bus.cc(638)] Bus::SendWithReplyAndBlock took 3175ms to process message: type=method_call, path=/org/freedesktop/Notifications, interface=org.freedesktop.Notifications, member=GetCapabilities
+[48662:48665:1203/170227.042348:ERROR:ssl_client_socket_impl.cc(983)] handshake failed; returned -1, SSL error code 1, net_error -3

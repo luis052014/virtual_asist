@@ -1,0 +1,4 @@
+2021/10/26-18:24:56.001 b3b7 Reusing MANIFEST /home/luis/Documentos/portaforlio/asistente_virtual/selenium/Default/Service Worker/Database/MANIFEST-000001
+2021/10/26-18:24:56.001 b3b7 Recovering log #3
+2021/10/26-18:24:56.036 b3b7 (ignoring error) /home/luis/Documentos/portaforlio/asistente_virtual/selenium/Default/Service Worker/Database/000003.log: dropping 64 bytes; Corruption: checksum mismatch
+2021/10/26-18:24:56.036 b3b7 Reusing old log /home/luis/Documentos/portaforlio/asistente_virtual/selenium/Default/Service Worker/Database/000003.log 
